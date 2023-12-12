@@ -26,7 +26,7 @@ This Python script captures network traffic for a specified duration using the S
 Install required libraries:
 bash:
 ```
-pip install scapy pandas
+pip install scapy pandas beautifulsoup4 requests
 ```
 Run the script:
 ```
