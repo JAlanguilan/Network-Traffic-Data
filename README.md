@@ -19,6 +19,8 @@ This Python script captures network traffic for a specified duration using the S
 - Python 3.X
 - Scapy Library
 - Pandas Library
+- BeautifulSoup4
+- Requests
 
 # Usage
 Install required libraries:
