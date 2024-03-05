@@ -1,8 +1,8 @@
 # Network Traffic Capture and Cleaning Script
-This Python script captures network traffic for a specified duration using the Scapy library, processes the captured packets, extracts information such as source IP, destination IP, protocol, and website names (from URLs), and performs basic data cleaning tasks on the captured data.
+This Python script captures network traffic for a specified duration using the Scapy library, processes the captured packets, extracts information such as source IP, destination IP, protocol, and website names (from URLs), and performs basic data cleaning tasks on the captured data. It also uses the Pandas library to create a Dataframe and stores the information in a CSV file.
 
 # Features
-- Captures network traffic fora defined duration ('capture_duration variable).
+- Captures network traffic for a defined duration ('capture_duration variable).
 - Extracts information from captured packets:
   - Source IP
   - Destination IP
